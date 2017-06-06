@@ -1,0 +1,8 @@
+/Users/ventours/code/vimeo_net_sdk/bin/Debug/netcoreapp1.1/vimeo_net_sdk.deps.json
+/Users/ventours/code/vimeo_net_sdk/bin/Debug/netcoreapp1.1/vimeo_net_sdk.runtimeconfig.json
+/Users/ventours/code/vimeo_net_sdk/bin/Debug/netcoreapp1.1/vimeo_net_sdk.runtimeconfig.dev.json
+/Users/ventours/code/vimeo_net_sdk/bin/Debug/netcoreapp1.1/vimeo_net_sdk.dll
+/Users/ventours/code/vimeo_net_sdk/bin/Debug/netcoreapp1.1/vimeo_net_sdk.pdb
+/Users/ventours/code/vimeo_net_sdk/obj/Debug/netcoreapp1.1/vimeo_net_sdk.AssemblyInfo.cs
+/Users/ventours/code/vimeo_net_sdk/obj/Debug/netcoreapp1.1/vimeo_net_sdk.dll
+/Users/ventours/code/vimeo_net_sdk/obj/Debug/netcoreapp1.1/vimeo_net_sdk.pdb
